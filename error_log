@@ -1,0 +1,61 @@
+[05-Jun-2022 07:53:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.25. in /home/adovapharma/public_html/vendor/composer/platform_check.php on line 24
+[05-Jun-2022 07:54:32 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.25. in /home/adovapharma/public_html/vendor/composer/platform_check.php on line 24
+[05-Jun-2022 07:54:36 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.25. in /home/adovapharma/public_html/vendor/composer/platform_check.php on line 24
+[05-Jun-2022 07:54:55 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.25. in /home/adovapharma/public_html/vendor/composer/platform_check.php on line 24
+[05-Jun-2022 07:55:06 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.25. in /home/adovapharma/public_html/vendor/composer/platform_check.php on line 24
+[05-Jun-2022 07:55:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.25. in /home/adovapharma/public_html/vendor/composer/platform_check.php on line 24
+[05-Jun-2022 08:02:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.25. in /home/adovapharma/public_html/vendor/composer/platform_check.php on line 24
+[05-Jun-2022 08:02:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.25. in /home/adovapharma/public_html/vendor/composer/platform_check.php on line 24
+[05-Jun-2022 08:02:22 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.25. in /home/adovapharma/public_html/vendor/composer/platform_check.php on line 24
+[05-Jun-2022 08:02:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:02:53 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:02:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:02:57 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:12 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:12 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:15 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:17 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:18 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:18 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:03:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:03:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:04:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:04:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:07:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:07:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:08:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:08:36 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:08:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:08:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:08:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:08:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:08:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:08:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:09:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:09:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:09:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:09:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[05-Jun-2022 08:09:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/adovapharma/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[05-Jun-2022 08:09:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
